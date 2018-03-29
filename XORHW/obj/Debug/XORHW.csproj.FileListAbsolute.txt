@@ -1,0 +1,8 @@
+c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\bin\Debug\XORHW.exe.config
+c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\bin\Debug\XORHW.exe
+c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\bin\Debug\XORHW.pdb
+c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\obj\Debug\XORHW.Form1.resources
+c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\obj\Debug\XORHW.Properties.Resources.resources
+c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\obj\Debug\XORHW.csproj.GenerateResource.Cache
+c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\obj\Debug\XORHW.exe
+c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\obj\Debug\XORHW.pdb
