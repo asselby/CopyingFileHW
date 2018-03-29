@@ -28,6 +28,7 @@ namespace XORHW
             nameFileTextBox.Text = openFile.FileName;
         }
 
+
         void StartButtonClick(object sender, EventArgs e)
         {
             if (encryptRadioButton.Checked && passwordTextBox.Text!=String.Empty)
@@ -49,6 +50,7 @@ namespace XORHW
                             progressBar.Increment((int)encryptFile.Length);
                         }
                         MessageBox.Show("Файл зашифрован");
+                        progressBar.Value = 0;
                     }
                 }
             }
@@ -76,6 +78,7 @@ namespace XORHW
                             }
 
                             MessageBox.Show("Файл расшифрован");
+                            progressBar.Value = 0;
                         }
                     }
                 }

@@ -6,3 +6,12 @@ c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\obj\Debug\XOR
 c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\obj\Debug\XORHW.csproj.GenerateResource.Cache
 c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\obj\Debug\XORHW.exe
 c:\users\besttdk\documents\visual studio 2015\Projects\XORHW\XORHW\obj\Debug\XORHW.pdb
+C:\Users\БаймуханбетоваА\Source\Repos\CopyingFileHW\XORHW\bin\Debug\XORHW.exe.config
+C:\Users\БаймуханбетоваА\Source\Repos\CopyingFileHW\XORHW\bin\Debug\XORHW.exe
+C:\Users\БаймуханбетоваА\Source\Repos\CopyingFileHW\XORHW\bin\Debug\XORHW.pdb
+C:\Users\БаймуханбетоваА\Source\Repos\CopyingFileHW\XORHW\obj\Debug\XORHW.csprojResolveAssemblyReference.cache
+C:\Users\БаймуханбетоваА\Source\Repos\CopyingFileHW\XORHW\obj\Debug\XORHW.Form1.resources
+C:\Users\БаймуханбетоваА\Source\Repos\CopyingFileHW\XORHW\obj\Debug\XORHW.Properties.Resources.resources
+C:\Users\БаймуханбетоваА\Source\Repos\CopyingFileHW\XORHW\obj\Debug\XORHW.csproj.GenerateResource.Cache
+C:\Users\БаймуханбетоваА\Source\Repos\CopyingFileHW\XORHW\obj\Debug\XORHW.exe
+C:\Users\БаймуханбетоваА\Source\Repos\CopyingFileHW\XORHW\obj\Debug\XORHW.pdb

@@ -110,9 +110,9 @@
             // startButton
             // 
             this.startButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.startButton.Location = new System.Drawing.Point(415, 166);
+            this.startButton.Location = new System.Drawing.Point(397, 166);
             this.startButton.Name = "startButton";
-            this.startButton.Size = new System.Drawing.Size(75, 27);
+            this.startButton.Size = new System.Drawing.Size(93, 27);
             this.startButton.TabIndex = 7;
             this.startButton.Text = "Пуск";
             this.startButton.UseVisualStyleBackColor = true;
@@ -120,9 +120,9 @@
             // cancelButton
             // 
             this.cancelButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.cancelButton.Location = new System.Drawing.Point(510, 166);
+            this.cancelButton.Location = new System.Drawing.Point(496, 166);
             this.cancelButton.Name = "cancelButton";
-            this.cancelButton.Size = new System.Drawing.Size(75, 27);
+            this.cancelButton.Size = new System.Drawing.Size(89, 27);
             this.cancelButton.TabIndex = 8;
             this.cancelButton.Text = "Отмена";
             this.cancelButton.UseVisualStyleBackColor = true;
@@ -141,7 +141,9 @@
             this.Controls.Add(this.passwordLable);
             this.Controls.Add(this.nameFileTextBox);
             this.Controls.Add(this.selectFileButton);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MainForm";
             this.ResumeLayout(false);
             this.PerformLayout();
