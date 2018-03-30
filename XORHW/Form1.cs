@@ -30,6 +30,12 @@ namespace XORHW
             nameFileTextBox.Text = openFile.FileName;
         }
 
+        void CancelButton(object sender, EventArgs e)
+        {
+            if (encryptThread.IsAlive)
+                encryptThread.Abort();
+        }
+
         void StartButtonClick(object sender, EventArgs e)
         {
             if (encryptRadioButton.Checked)
